@@ -5,5 +5,4 @@ public interface Interface1 {
 		System.out.println("The default method of Interface1.");
 		System.out.println();
 	}
-	
 }
